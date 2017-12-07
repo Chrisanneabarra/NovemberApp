@@ -18,7 +18,7 @@ let content = <div className='page'>
 </ul>
 	<div className='bottom'>
 	<textarea id='contents'></textarea>
-	<button onClick={add_list_content}>Add</button><button>Delete</button></div>
+	<button onClick={add_list_content}>Add</button></div>
     </div>
   </div>
 </div>
